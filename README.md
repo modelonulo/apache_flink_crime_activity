@@ -1,4 +1,4 @@
-##  Developing solutions in apache spark. 
+##  Developing solutions in apache flink. 
 
 1. For every 10,000 crimes, the number of NARCOTICS-type crimes;
 2. For every 10,000 crimes, the number of NARCOTICS-type crimes that occurred in 2010
